@@ -31,12 +31,3 @@
 - Learn AI Development
 - Become better everyday 😄
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kadeksuwis&show_icons=true&theme=tokyonight)
-
----
-
-⭐ Thanks for visiting my profile!
